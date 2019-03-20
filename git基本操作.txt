@@ -1,0 +1,6 @@
+首先git clone http://github.com/2804420942/....
+或者git init 
+添加文件 git add ...
+提交文件 git commit -m "提交描述"
+发送文件 git push
+确保路径名一模一样
